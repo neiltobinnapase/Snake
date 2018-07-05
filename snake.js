@@ -13,7 +13,7 @@ function loadSounds() {
     dead.volume = .9;
 
     funky = new Audio('sounds/funky.mp3');
-    funky.volume = .05;
+    funky.volume = .15;
     funky.loop = true;
     funky.play();
 }
